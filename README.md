@@ -6,7 +6,7 @@ I'm a Software and Machine Learning Engineer at Brown University.
 
 * I'm a rising Junior at Brown University studying Computer Science
 * For the past year, and in the upcoming spring, I was a Undergrad TA for Brown's CSCI1470 Deep Learning course. 
-* I also do applied Deep Learning research with the Singh Lab. Currently, I'm working on a multimodal model 
+* I also do applied Deep Learning research with the Singh Lab. Currently, I'm working on a multimodal model which encodes medical data of different modalities into the same latent space. 
 
 <!--
 **joobumjin/joobumjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
