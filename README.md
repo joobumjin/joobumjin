@@ -4,7 +4,7 @@ I'm a Software/Machine Learning Engineer at Brown University.
 
 ## 💬 About Me
 
-* I'm a rising Junior at Brown University studying Computer Science
+* I'm a Junior at Brown University studying Computer Science
 * For the past year, and in the upcoming spring, I was a Undergrad TA for Brown's CSCI1470 Deep Learning course. 
 * I also do applied Deep Learning research with the Singh Lab. Currently, I'm working on a multimodal model which encodes medical data of different modalities into the same latent space. 
 * Check out more info at [my personal website](bumjinjoo.com)!
