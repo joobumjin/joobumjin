@@ -1,11 +1,13 @@
 # 👋 Hi! I'm Bumjin 
 
-I'm a Software/Machine Learning Engineer at Brown University.
+I'm a Machine Learning Engineer and New Grad from Brown CS!
 
 ## 💬 About Me
 
-* I'm a Senior at Brown University studying Computer Science
-* For the past three years, I've been a Undergrad TA for Brown's CSCI1470 / 2470 (Graduate) Deep Learning course. 
+* Recently graduated with an ScB from Brown CS, with a particular focus on Machine Learning
+  * (Tentatively) working through an ScM as well!
+
+* As a student, I was a Undergrad TA for 3 years with Brown's CS1470 / 2470 (Graduate) Deep Learning and CS1430 Computer Vision courses. 
   * As a TA, I've developed assignments about Backpropagation, Autoencoders, and ViTs 
   * I've also workshopped new course content with Transformers and foundation models like CLIP
 
