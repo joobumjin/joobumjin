@@ -11,7 +11,9 @@ I'm a Machine Learning Engineer and New Grad from Brown CS!
   * As a TA, I've developed assignments about Backpropagation, Autoencoders, and ViTs 
   * I've also workshopped new course content with Transformers and foundation models like CLIP
 
-* I also do applied Deep Learning research with the Singh Lab. Currently, I'm working on a Graph Convolutional Network which attempts to better predict stem cell function and maturity!
+* I also did applied Deep Learning research with the Singh Lab @ Brown. 
+  * Currently, I'm wrapping up research on a Graph Convolutional Network which attempts to better predict stem cell function and maturity!
+
 
 
 
