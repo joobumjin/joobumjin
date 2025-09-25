@@ -1,18 +1,18 @@
 # 👋 Hi! I'm Bumjin 
 
-I'm a Machine Learning Engineer and New Grad from Brown CS!
+I'm a Machine Learning Engineer and current Master's student at Brown CS!
 
 ## 💬 About Me
 
 * Recently graduated with an ScB from Brown CS, with a particular focus on Machine Learning
-  * (Tentatively) working through an ScM as well!
+  * Currently working through an ScM as well!
 
 * As a student, I was a Undergrad TA for 3 years with Brown's CS1470 / 2470 (Graduate) Deep Learning and CS1430 Computer Vision courses 
   * As a TA, I've developed assignments about Backpropagation, Autoencoders, and ViTs 
   * I've also workshopped new course content with Transformers and foundation models like CLIP
 
 * I also did applied Deep Learning research with the Singh Lab @ Brown
-  * Currently, I'm wrapping up research on a Graph Convolutional Network which attempts to better predict stem cell function and maturity!
+  * Currently, I'm wrapping up research on a Graph Convolutional Network which attempts to better predict stem cell function and maturity and unify multiple distinct models into a single multitasking one!
 
 
 Feel free to reach out to me at my email [first].[last]@gmail.com! I'd love to talk about work, jobs, or just chat about representation learning.
