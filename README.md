@@ -1,11 +1,13 @@
-# 👋 Hi! I'm Bumjin 
+# 👋 hi! i'm Bumjin 
 
 I'm a Machine Learning Engineer and current Master's student at Brown CS!
 
-## 💬 About Me
+Check out [my portfolio here](https://bumjinjoo.com), or take a look around and see what kind of work I've been up to!
 
-* Recently graduated with an ScB from Brown CS, with a particular focus on Machine Learning
-  * Currently working through an ScM as well!
+## 💬 about me
+
+* I'm a current ScM student at BrownCS studying machine learning with a particular interest in multimodal, self supervised learning!
+  * I also completed my ScB with Honors here as well!
 
 * As a student, I was a Undergrad TA for 3 years with Brown's CS1470 / 2470 (Graduate) Deep Learning and CS1430 Computer Vision courses 
   * As a TA, I've developed assignments about Backpropagation, Autoencoders, and ViTs 
@@ -15,7 +17,7 @@ I'm a Machine Learning Engineer and current Master's student at Brown CS!
   * Currently, I'm wrapping up research on a Graph Convolutional Network which attempts to better predict stem cell function and maturity and unify multiple distinct models into a single multitasking one!
 
 
-Feel free to reach out to me at my email [first].[last]@gmail.com! I'd love to talk about work, jobs, or just chat about representation learning.
+Feel free to reach out to me at my email [first].[last]@gmail.com. I'd love to talk about work, jobs, or just chat about ML!
 
 <!--
 **joobumjin/joobumjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
