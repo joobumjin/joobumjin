@@ -9,6 +9,10 @@ Check out [my portfolio here](https://bumjinjoo.com), or take a look around and 
 * I'm a current ScM student at BrownCS studying machine learning with a particular interest in multimodal, self supervised learning!
   * I also completed my ScB with Honors here as well!
 
+* I just started working with the RadAI Lab at the Rhode Island Hospital on some pancreatic cancer research.
+  * The main gist is to see how multimodal approaches can integrate physician's notes with complex pancreatomy imagery to yield deeper understanding of a patient's current status and how they might react to different treatments!
+
+
 * As a student, I was a Undergrad TA for 3 years with Brown's CS1470 / 2470 (Graduate) Deep Learning and CS1430 Computer Vision courses 
   * As a TA, I've developed assignments about Backpropagation, Autoencoders, and ViTs 
   * I've also workshopped new course content with Transformers and foundation models like CLIP
